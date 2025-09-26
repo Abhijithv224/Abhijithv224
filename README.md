@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Abhijith V
+A curious and driven machine learning enthusiast, I thrive at the intersection of data, algorithms, and real-world problem solving. My goal is to leverage machine learning to create meaningful solutions that impact lives.
 
-<!--
-**Abhijithv224/Abhijithv224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+🎓 Pursuing B.Tech in Artificial Intelligence and Data Science.
+💻 Proficient in Python, Pandas, NumPy, Matplotlib, SQL, and data manipulation.
+🌱 Passionate about exploring the latest trends and innovations in machine learning and AI.
 
-Here are some ideas to get you started:
+Connect With Me
+LinkedIn: in/abhijith-v-98b493281
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: abhijithv2204@gmail.com
+
+Looking forward to connecting with you!
